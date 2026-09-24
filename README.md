@@ -1,108 +1,68 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=2DD4BF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Humaira+Khanam+%F0%9F%91%8B;CSE+%40+IUT+%7C+Computer+Vision+%26+Few-Shot+Learning;I+build+ML+that+works+with+little+data;Open+to+freelance+AI+projects" alt="Typing intro" />
+# Humaira Khanam
 
-<p>
-  <img src="https://img.shields.io/badge/IUT-CSE_'27-0f766e?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CGPA-3.74-2563eb?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Based_in-Dhaka%2C_Bangladesh-7c3aed?style=for-the-badge" />
-</p>
+**Computer Science and Engineering, Islamic University of Technology, Dhaka**
+Computer Vision  |  Few-Shot Learning  |  Applied Machine Learning
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:humairakhanam067@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+<br>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-1f2937?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:humairakhanam067@gmail.com"><img src="https://img.shields.io/badge/Email-1f2937?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/humaira228?tab=repositories"><img src="https://img.shields.io/badge/Repositories-1f2937?style=flat-square&logo=github&logoColor=white" /></a>
 
 </div>
 
 ---
 
-## 🔬 Focus
+## About
 
-- 🧠 **Thesis (Computer Vision Lab):** adaptive fusion of **CLIP + DINOv2** for few-shot image classification
-- 🏭 **Applied research:** how classical ML breaks under **domain shift**, tested on real Bangladeshi factory fabric
-- 🤖 **Freelance:** AI assistants, automations, and small-data image classifiers
+Undergraduate researcher in the Computer Vision Lab at IUT (B.Sc. expected 2027, CGPA 3.74). My work focuses on how models behave with limited labeled data and under domain shift. I am also available for freelance work in AI assistants, automation, and small-data image classification.
 
-## ⭐ Featured projects
+## Research
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**Undergraduate Thesis: Adaptive Fusion of Vision-Language and Self-Supervised Representations for Few-Shot Image Classification.**
+Investigates when CLIP and DINOv2 features should be combined, and how the balance changes with the number of labeled examples.
 
-### 🧵 Fabric Defect Domain Shift
-Benchmarked 16 feature/classifier combos on TILDA, then tested on a **self-collected real factory dataset**.
-- Found a hidden failure: **specificity = 0.000** on defect-free fabric
-- Ruled out 4 causes before finding the real one
-- Recovered partly with 20-50 real examples
+## Selected Projects
 
-`Python` `scikit-learn` `LBP` `GLCM` `HOG`
+| Project | Summary | Stack |
+|---|---|---|
+| [Fabric Defect Domain Shift](https://github.com/humaira228/fabric-defect-domain-shift) | Benchmarked 16 feature and classifier combinations on TILDA, then evaluated on a self-collected real factory dataset from Bangladesh. Identified a specific failure on defect-free fabric (specificity 0.000) and partial recovery with 20 to 50 real examples. | Python, scikit-learn, LBP, GLCM, HOG |
+| [Few-Shot CLIP and DINOv2 Benchmark](https://github.com/humaira228/Few-Shot) | Compared five few-shot adapters on CIFAR-10, EuroSAT, and DermaMNIST under an identical protocol. CLIP-LoRA reached 95.8% on CIFAR-10 at K=100 against 90.4% zero-shot. | Python, PyTorch, CLIP, DINOv2 |
+| EcoTrack | Health-scored route planning using live air quality data and a machine learning risk model. Semi-finalist, Therap JavaFest 2025. | Spring Boot, React, Flask, PostgreSQL |
+| SheShield | Android safety application with voice and shake-activated SOS, live GPS tracking, and AES-256 encrypted audio recording. | Kotlin, Firebase, Google Maps SDK |
+| Ottalika | Property management platform with real-time chat and automated payment tracking. | React, Node.js, PostgreSQL, Socket.IO |
+| [DeenOasis](https://github.com/humaira228/DeenOasis) | Book rental platform with authentication, inventory, and rental tracking. | Node.js, React, MongoDB |
 
-[**View repo →**](https://github.com/humaira228/fabric-defect-domain-shift)
+## Technical Skills
 
-</td>
-<td width="50%" valign="top">
-
-### 🎯 Few-Shot CLIP / DINOv2 Benchmark
-Compared 5 few-shot adapters on CIFAR-10, EuroSAT and DermaMNIST.
-- **CLIP-LoRA: 95.8%** on CIFAR-10 at K=100 (zero-shot CLIP: 90.4%)
-- Found an inverted-U link between zero-shot headroom and adaptation gain
-- Built CLIP from scratch on 5k image-caption pairs
-
-`Python` `PyTorch` `CLIP` `DINOv2`
-
-[**View repo →**](https://github.com/humaira228/Few-Shot)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌫️ EcoTrack
-Health-scored navigation using live air quality data and an ML risk model.
-🏆 Therap JavaFest 2025 semi-finalist
-
-`Spring Boot` `React` `Flask` `PostgreSQL` `XGBoost`
-
-</td>
-<td width="50%" valign="top">
-
-### 🛡️ SheShield
-Women's safety Android app: voice and shake SOS, live GPS, encrypted audio, auto SMS to contacts.
-2.6 s average SOS response time.
-
-`Kotlin` `Firebase` `Google Maps SDK`
-
-</td>
-</tr>
-</table>
-
-<sub>More: **Ottalika** (building management, real-time chat) · **DeenOasis** (book rental platform)</sub>
-
-## 🛠️ Tech stack
+| | |
+|---|---|
+| **Languages** | Python, C, C++, Java, Kotlin, JavaScript, TypeScript, SQL |
+| **Machine Learning** | PyTorch, scikit-learn, Pandas, NumPy, Jupyter |
+| **Backend** | Node.js, Express, Spring Boot, Flask, Firebase |
+| **Frontend and Mobile** | React, Tailwind CSS, Android (Kotlin, Jetpack) |
+| **Databases** | PostgreSQL, MongoDB, MySQL, Room |
+| **Tools** | Git, LaTeX, Postman, VS Code |
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,pandas,numpy,cpp,c,java,kotlin,js,ts&perline=11" />
 <br>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,spring,flask,tailwind,firebase,postgres,mongodb,mysql&perline=10" />
-<br>
-<img src="https://skillicons.dev/icons?i=git,latex,androidstudio,vscode,postman&perline=5" />
+
+<img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,pandas,numpy,cpp,java,kotlin,ts,react,nodejs,flask,postgres,mongodb,git&perline=15&theme=dark" />
 
 </div>
 
-## 📊 GitHub stats
+## GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=humaira228&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humaira228&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=humaira228&show_icons=true&theme=transparent&title_color=9ca3af&text_color=9ca3af&icon_color=6b7280&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humaira228&layout=compact&theme=transparent&title_color=9ca3af&text_color=9ca3af&hide_border=true" />
+
 <br>
-<img src="https://streak-stats.demolab.com?user=humaira228&theme=tokyonight&hide_border=true" />
+
+<img src="https://raw.githubusercontent.com/humaira228/humaira228/output/github-snake-dark.svg" alt="Contribution graph" />
 
 </div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/humaira228/humaira228/output/github-snake.svg" alt="Contribution snake" />
-</div>
-
----
-
-<p align="center"><sub>Building things that still work when the data is small and the real world is messy.</sub></p>
