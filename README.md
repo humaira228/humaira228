@@ -6,7 +6,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/IUT-CSE_Batch_22-0f766e?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CGPA-3.74-2563eb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CGPA-3.78-2563eb?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Based_in-Dhaka%2C_Bangladesh-7c3aed?style=for-the-badge" />
 </p>
 
