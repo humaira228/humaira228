@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Based_in-Dhaka%2C_Bangladesh-7c3aed?style=for-the-badge" />
 </p>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="www.linkedin.com/in/humaira-khanam-hks"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:humairakhanam067@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 
 </div>
